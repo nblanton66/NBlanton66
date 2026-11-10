@@ -22,6 +22,4 @@ The product remains in development. I do not present it as a publicly launched o
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nblanton/)
-- PetWatch public project overview: **link to be added only after separate portfolio repository is reviewed and approved for publication**
-
-*This profile describes my actual role in AI-assisted product development; it does not imply that I personally authored every line of application code.*
+- [PetWatch project portfolio](https://github.com/nblanton66/PetWatch-Portfolio)
